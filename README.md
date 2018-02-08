@@ -9,4 +9,4 @@ Alice <-- Bob: another authentication Response
 ```
 
 # 実験
-![シャアザク](./img/シャアザク.jpeg)
+![シャアザク](img/MS-06S.jpeg)
